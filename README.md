@@ -14,7 +14,7 @@ The goal is to classify comments as **positive**, **negative**, or **neutral**, 
 - The dataset consists of YouTube comments collected from various videos.
 - Text preprocessing steps include tokenization, stopword removal, and vectorization using **TF-IDF**.
 -The dataset used for this project is available at:  
-[🔗 Dataset Link]([https://www.kaggle.com/datasets/atifaliak/youtube-comments-dataset])
+[🔗 [Dataset Link](https://www.kaggle.com/datasets/atifaliak/youtube-comments-dataset)]([https://www.kaggle.com/datasets/atifaliak/youtube-comments-dataset])
 ---
 
 ## 🛠️ Technologies Used
